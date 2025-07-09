@@ -1,3 +1,6 @@
+The code and data in this repository were used in the paper 'Extension of Clifford Data Regression Methods for Quantum Error Mitigation.' If you use this code, please cite the original source appropriately.
+
+
 --------------------------
 - Structure of the data: -
 --------------------------
@@ -42,4 +45,5 @@ versions. As a result, this mismatch should not pose a problem when generating t
 -----------------------------
 
 The file `library_QEM.py` contains the main functions and is imported by the other scripts. The rest of the files are named 
-according to the figure they are associated with, either to generate data or to create plots.
+according to the figure they are associated with, either to generate data or to create plots. Each script includes comments
+intended to make it self-explanatory and easy to follow.
