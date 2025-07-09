@@ -1,4 +1,5 @@
-The code and data in this repository were used in the paper 'Extension of Clifford Data Regression Methods for Quantum Error Mitigation.' If you use this code, please cite the original source appropriately.
+The code and data in this repository were used in the paper 'Extension of Clifford Data Regression Methods for Quantum Error 
+Mitigation.' If you use this code, please cite the original source appropriately.
 
 
 --------------------------
