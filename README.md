@@ -31,8 +31,8 @@ If you use this code or data, please cite the paper above (see [Citation](#citat
 ```
 .
 ├── DATA_paper_CDR/        # All data used to generate the paper's figures, organized by figure
-├── library_QEM.py         # Core functions imported by all other scripts
-├── script_figure_*.py     # One script per figure, for data generation and/or plotting
+├── Scripts_CDR ──  library_QEM.py         # Core functions imported by all other scripts
+                └── script_figure_*.py     # One script per figure, for data generation and/or plotting
 └── README.md
 ```
 
