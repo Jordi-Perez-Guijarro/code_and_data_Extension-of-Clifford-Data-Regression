@@ -63,8 +63,7 @@ The stored data was generated with earlier versions of the scripts. As a result,
 
 ### Figure 5a
 
-- `N_1k_QFT.spydata` — data for `N = 1k`.
-- `N_inf_QFT.spydata` — data for `N → ∞`.
+-The file `N_1k_QFT.spydata` contains the data for `N = 1k`, while `N_inf_QFT.spydata` contains the data for `N → ∞`.
 
 ### Figure 5b
 
