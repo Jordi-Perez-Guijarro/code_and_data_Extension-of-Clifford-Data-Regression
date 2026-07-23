@@ -4,9 +4,7 @@ This repository contains the code and data used in the paper:
 
 > J. Pérez-Guijarro, A. Pagès-Zamora, and J. R. Fonollosa, "Extension of Clifford Data Regression Methods for Quantum Error Mitigation," *IEEE Transactions on Quantum Engineering*, vol. 7, 2026.
 >
-> Preprint: [arXiv:2411.16653](https://arxiv.org/abs/2411.16653)
 
-The work studies two extensions of Clifford Data Regression (CDR), a supervised-learning-based quantum error mitigation technique: one that uses multiple copies of the original circuit, and one that adds a layer of single-qubit rotations. The scripts and data here reproduce the numerical experiments and figures reported in the paper.
 
 If you use this code or data, please cite the paper above (see [Citation](#citation)).
 
