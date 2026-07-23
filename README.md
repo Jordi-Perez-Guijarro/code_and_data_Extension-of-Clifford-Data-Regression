@@ -86,11 +86,10 @@ If you use this code or data, please cite:
 
 ```bibtex
 @article{perez2026extension,
-  title   = {Extension of Clifford Data Regression Methods for Quantum Error Mitigation},
-  author  = {P{\'e}rez-Guijarro, Jordi and Pag{\`e}s-Zamora, Alba and Fonollosa, Javier R.},
-  journal = {IEEE Transactions on Quantum Engineering},
-  volume  = {7},
-  year    = {2026},
-  note    = {Preprint available at arXiv:2411.16653}
+  title={Extension of Clifford data regression methods for quantum error mitigation},
+  author={P{\'e}rez-Guijarro, Jordi and Pages-Zamora, Alba and Fonollosa, Javier R},
+  journal={IEEE Transactions on Quantum Engineering},
+  year={2026},
+  publisher={IEEE}
 }
 ```
