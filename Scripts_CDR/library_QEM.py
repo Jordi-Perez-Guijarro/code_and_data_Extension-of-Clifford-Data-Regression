@@ -3,21 +3,8 @@ import matplotlib.pyplot as plt
 import math
 import pennylane as qml
 from pennylane import numpy as np
-#import tensorflow as tf
-import os
-os.environ['KMP_DUPLICATE_LIB_OK']='True'
-
-
-
-from qiskit_ibm_runtime import QiskitRuntimeService
-
-
-
-
-
 from numpy.linalg import inv 
-from IPython import get_ipython;   
-get_ipython().magic('reset -sf')
+
 
     #GATE CODES
 
