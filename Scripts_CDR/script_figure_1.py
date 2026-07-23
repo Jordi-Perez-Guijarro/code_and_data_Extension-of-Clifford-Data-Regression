@@ -9,13 +9,7 @@ import matplotlib.pyplot as plt
 import math
 import pennylane as qml
 from pennylane import numpy as np
-import os
-os.environ['KMP_DUPLICATE_LIB_OK']='True'
-
 from numpy.linalg import inv 
-from IPython import get_ipython;   
-get_ipython().magic('reset -sf')
-
 
 import library_QEM as QEM
 
